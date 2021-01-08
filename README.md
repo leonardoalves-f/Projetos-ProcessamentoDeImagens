@@ -4,6 +4,10 @@ Repositório criado para armazenar as atividades realizadas ao longo da discipli
 
 <b>Autor:</b> Leonardo Alves Ferreira
 
+## Projeto Final: Autoencoder para o aumento da resolução de imagens
+
+<a href="Autoencoder_SuperResolucao.ipynb">Autoencoder</a>
+
 ## Sumário dos Notebooks das Atividades
 
 1. <a href="Atividade-DICOM.ipynb">DICOM</a>
