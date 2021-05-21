@@ -14,4 +14,4 @@ Repositório criado para armazenar as atividades realizadas ao longo da discipli
 2. <a href="Atividade-Filtragem.ipynb">Filtragem Espacial e na Frequência</a>
 3. <a href="Atividade-Segmentacao-Textura.ipynb">Segmentação e Análise de Textura</a>
 4. <a href="Atividade-Movimento.ipynb">Análise de Movimento</a>
-5. <a href="Atividade-Interpolacao-ReconstrucaoTomografica.ipynb">Interpolação e Reconstrução da Tomográfica</a>
+5. <a href="Atividade-Interpolacao-ReconstrucaoTomografica.ipynb">Interpolação e Reconstrução Tomográfica</a>
